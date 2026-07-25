@@ -1,18 +1,11 @@
-# Defcarlito Tap
+# Homebrew Tap
 
-## How do I install these formulae?
+Homebrew formulae.
 
-`brew install defcarlito/tap/<formula>`
+## Installation
 
-Or `brew tap defcarlito/tap` and then `brew install <formula>`.
+Install any formula directly:
 
-Or, in a `brew bundle` `Brewfile`:
-
-```ruby
-tap "defcarlito/tap"
-brew "<formula>"
+```bash
+brew install defcarlito/tap/<formula>
 ```
-
-## Documentation
-
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
